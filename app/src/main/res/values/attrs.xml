@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTitleView">
+        <attr name="textBackGround" format="color" />
+        <attr name="max" format="integer" />
+        <attr name="addText" format="string" />
+        <attr name="decText" format="string" />
+    </declare-styleable>
+</resources>
